@@ -1,0 +1,12 @@
+.all-checkout-products{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.checkout-products{
+    border: 2px dashed grey;
+    margin: 10px;
+    width: 95%;
+    /* color: aqua; */
+    /* cursor: url('cursor.jpeg'), auto;   */
+}

@@ -1,0 +1,23 @@
+.links{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: right; */
+
+}
+
+.links ul li:hover{
+    scale: 1.4;
+}
+
+.links a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-custom{
+    background: darkblue;
+    width: 100%;
+    height: 100px;
+}
+
